@@ -2,4 +2,9 @@
       "editor.fontSize": 18,
       "editor.formatOnSave": true,
       "C_Cpp.clang_format_style": "{BasedOnStyle: Google, AccessModifierOffset: -4, IndentWidth: 4}",
+      "files.exclude": {
+            "*.exe": true,
+            ".gitignore": true,
+            "README.md": true,
+      }
 }
